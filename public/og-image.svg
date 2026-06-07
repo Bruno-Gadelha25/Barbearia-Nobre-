@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Corte Nobre Barbearia">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="100%" stop-color="#151515"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="120" r="220" fill="#C5A059" opacity="0.08"/>
+  <circle cx="140" cy="540" r="260" fill="#C5A059" opacity="0.06"/>
+  <rect x="72" y="72" width="1056" height="486" rx="28" fill="none" stroke="#C5A059" stroke-width="2" opacity="0.5"/>
+  <text x="96" y="180" fill="#C5A059" font-size="28" font-family="Inter, Arial, sans-serif" letter-spacing="6">CORTE NOBRE</text>
+  <text x="96" y="292" fill="#FFFFFF" font-size="74" font-family="Montserrat, Arial, sans-serif" font-weight="700">Barbearia Premium</text>
+  <text x="96" y="362" fill="#D8D8D8" font-size="30" font-family="Inter, Arial, sans-serif">Agendamento via WhatsApp, visual elegante e experiência responsiva.</text>
+  <text x="96" y="430" fill="#C5A059" font-size="26" font-family="Inter, Arial, sans-serif">Conversão local • Mobile-first • SEO básico • Vercel</text>
+  <circle cx="1000" cy="338" r="92" fill="none" stroke="#C5A059" stroke-width="4"/>
+  <path d="M962 304c24 0 43 16 43 38s-19 38-43 38h-12v-76h12Z" fill="#C5A059"/>
+  <path d="M1018 280 972 396" stroke="#D4B475" stroke-width="5" stroke-linecap="round"/>
+  <path d="M1040 280 994 396" stroke="#D4B475" stroke-width="5" stroke-linecap="round"/>
+  <path d="M1004 300 1034 270" stroke="#C5A059" stroke-width="5" stroke-linecap="round"/>
+  <path d="M1004 376 1034 406" stroke="#C5A059" stroke-width="5" stroke-linecap="round"/>
+</svg>
