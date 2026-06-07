@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://barbearia-nobre.vercel.app/sitemap.xml
+Sitemap: https://barbearia-nobre-ten.vercel.app/sitemap.xml

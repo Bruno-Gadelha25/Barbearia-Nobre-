@@ -4,7 +4,7 @@ Site institucional premium para uma barbearia com foco em conversão por WhatsAp
 
 ## Demonstração
 
-- Link do projeto: https://barbearia-nobre.vercel.app/
+- Link do projeto: https://barbearia-nobre-ten.vercel.app/
 - Interface pública: home, serviços, diferenciais e depoimentos
 - Área administrativa: modo demonstração quando o Supabase não está configurado
 
